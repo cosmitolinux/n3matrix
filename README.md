@@ -29,7 +29,7 @@ Ensure your system has the required Python engines:
 sudo package_manager install python python-psutil python-rich
 then run
 ```Installation
-git clone [https://github.com/cosmitolinux/n3matrix.git](https://github.com/YOUR_USERNAME/n3matrix.git)
+git clone [https://github.com/cosmitolinux/n3matrix.git](https://github.com/cosmitolinux/n3matrix.git)
 cd n3matrix
 chmod +x install.sh
 ./install.sh

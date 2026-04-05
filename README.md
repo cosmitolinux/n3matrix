@@ -1,6 +1,6 @@
 # 🌌 nebpackage: n3matrix
 
-> A celestial system monitor and star-rain visualizer for Arch Linux and beyond.
+> A celestial system monitor and star-rain visualizer for Arch Linux and beyond. This is supposed to match with the n3bu1a-shell -- https://github.com/cosmitolinux/nebula-wm
 
 The **n3bpackage** transforms your terminal into a deep-space command center. Optimized for a "Starred Galaxy" aesthetic, these tools bring high-performance system tracking and 3D parallax visuals to your workspace.
 
